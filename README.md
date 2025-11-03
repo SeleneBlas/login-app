@@ -31,5 +31,7 @@ Aplicación web creada con **Next.js** que permite a los usuarios realizar reser
 
 ---
 
-## 🧩 Estructura del proyecto
+## 🧩 Acceso 
+https://login-app-xi-mauve.vercel.app/
 
+https://docs.google.com/spreadsheets/d/1OSJh-Kn80t_p1wkqV2NicwkKqNFtg91D7PN8Djwz58Y/edit?usp=sharing
