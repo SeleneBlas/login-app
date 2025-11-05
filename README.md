@@ -35,7 +35,11 @@ Aplicación web creada con **Next.js** que permite a los usuarios realizar reser
 https://login-app-xi-mauve.vercel.app/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://docs.google.com/spreadsheets/d/1OSJh-Kn80t_p1wkqV2NicwkKqNFtg91D7PN8Djwz58Y/edit?usp=sharing
 =======
 https://docs.google.com/spreadsheets/d/1OSJh-Kn80t_p1wkqV2NicwkKqNFtg91D7PN8Djwz58Y/edit?usp=sharing
 >>>>>>> 1661ea4 (Correccion)
+=======
+https://docs.google.com/spreadsheets/d/1OSJh-Kn80t_p1wkqV2NicwkKqNFtg91D7PN8Djwz58Y/edit?usp=sharing
+>>>>>>> 1661ea49de80747c7a4ca28f7df89a32da8630ce
