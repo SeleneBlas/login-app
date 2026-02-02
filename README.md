@@ -34,3 +34,6 @@ Aplicación web creada con **Next.js** que permite a los usuarios realizar reser
 ## 🧩 Acceso 
 https://login-app-xi-mauve.vercel.app/
 
+
+<img width="1366" height="768" alt="Captura de pantalla 2026-02-02 095706" src="https://github.com/user-attachments/assets/84b93a59-d767-4dd6-8db1-9ad3b4f7e3c9" />
+
