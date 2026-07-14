@@ -12,7 +12,7 @@ Aplicación web creada con **Next.js** que permite a los usuarios realizar reser
 - **Google Sheets API**
 - **Vercel** → para el despliegue
 - **GitHub** → control de versiones
-- **Supabase (opcional)** → para autenticación
+- **Supabase** → para autenticación
 
 ---
 
